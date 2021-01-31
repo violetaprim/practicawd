@@ -1,0 +1,83 @@
+[{
+    "id": 1,
+    "beneficios": "Promueve el descanso, calma la ansiedad, rico en antioxidantes, sin cafeina",
+    "titulo": "Rooibos",
+    "srcimg": "https://www.theteamakers.co.uk/user/products/vanilla-organic-rooibos-235-p.jpg",
+    "alt": "Hojas de Rooibos",
+    "texto": "Originario de Sudáfrica, este té hecho de la poderosa planta Red Bush te ayuda a sanar y relajarte.",
+    "url": "https://www.amazon.es/N%C3%BAm-1286-org%C3%A1nico-ecol%C3%B3gico-cardamomo/dp/B0183VDH84/ref=sr_1_1_sspa?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ROE1AKZZN3SF&dchild=1&keywords=rooibos&qid=1612095379&sprefix=rooibos%2Caps%2C614&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNDYxUTVDT0hZS1dXJmVuY3J5cHRlZElkPUEwMjM5ODI0MlJKRTNDRjNRVERDTSZlbmNyeXB0ZWRBZElkPUEwODQ2MzU4MTJVVktZWU43UUtSRSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+},
+{
+    "id": 2,
+    "beneficios": "Anti-inflamatoria, facilita la digestión, enfría y calma el cuerpo.",
+    "titulo": "Poleo-menta",
+    "srcimg": "https://www.muyinteresante.com.mx/wp-content/uploads/2018/05/httpstved-prod.adobecqms.netcontentdameditorialTelevisamexicomuyinteresantemxsalud-y-bienestarmedicina170718tementa.imgo_-1280x720.jpg",
+    "alt": "Taza de poleo menta",
+    "texto": "El aceite y las hojas de la menta se han usado desde los Antiguos Egípcios por sus propiedades medicinales.",
+    "url": "https://www.amazon.es/Pompadour-T%C3%A9-Poleo-Menta/dp/B01DUXOIXS/ref=sr_1_18?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=infusion+menta&qid=1612096720&sr=8-18"
+},
+{
+    "id": 3,
+    "beneficios": "Calmante, alivia el insomnio, reduce la ansiedad y los dolores de cabeza.",
+    "titulo": "Lavanda",
+    "srcimg": "https://t2.uc.ltmcdn.com/images/6/0/6/te_de_lavanda_propiedades_como_hacerlo_y_contraindicaciones_49606_600_square.jpg",
+    "alt": "Taza de té de lavanda junto con un ramillete de la planta",
+    "texto": "La lavanda se ha usado durante miles de años por sus efectos calmantes. Un té muy aromático, con un sabor suave y dulce.",
+    "url": "https://www.amazon.es/TooGet-Culinaria-Capullos-Cultivan-Superior/dp/B07MMFDD26/ref=sr_1_3_sspa?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=te+lavanda&qid=1612097146&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExRkI4WDJGQ01UWlVXJmVuY3J5cHRlZElkPUEwMDY3MTU2RkxMVTI2SEVEUVoyJmVuY3J5cHRlZEFkSWQ9QTAyNTQ0MTgxU01JSkhIN0tDQURCJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+},
+{
+    "id": 4,
+    "beneficios": "Reduce la presión arterial, aumenta la immunidad, rico en vitamina c.",
+    "titulo": "Hibisco",
+    "srcimg": "https://www.65ymas.com/uploads/s1/19/99/24/bigstock-hibiscus-tea-hibiscus-tea-in-275348800.jpeg",
+    "alt": "Taza de té de hibisco junto con sus flores secas",
+    "texto": "El hibiscus, comunmente llamado hibisco, es una flor originaria de las regiones tropicales que ayuda a las funciones cardiovasculares. ",
+    "url": "https://www.amazon.es/FRISAFRAN-Flores-Hibisco-Org%C3%A1nicas-infusi%C3%B3n/dp/B089YXZZC1/ref=sr_1_7?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=te+hibisco&qid=1612097197&sr=8-7"
+},
+{
+    "id": 5,
+    "beneficios": "Energizante, combate el estrés.",
+    "titulo": "Earl Grey",
+    "srcimg": "https://sibyllans.se/wp-content/uploads/2018/09/Eko-Earl-Grey_x1.jpg",
+    "alt": "Hojas de Earl Grey",
+    "texto": "Earl Grey es una mezcla selecta de tes negros, infusionada con bergamota. Según la leyenda, el nombre viene del Primer Ministro inglés Earl Charles Grey.",
+    "url": "https://www.amazon.es/C%C3%ADtrico-Delicioso-Sueltas-Extracto-Bergamota/dp/B0186XTAUI/ref=sr_1_4_sspa?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=earl+grey&qid=1612099814&sr=8-4-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPSkNCM1lYNklJSTgmZW5jcnlwdGVkSWQ9QTA1MDIyOTQyMk1HUDFUM1BNQUVDJmVuY3J5cHRlZEFkSWQ9QTAyNDk2MDkzVVk4OUFEMERMMFkxJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+},
+{
+    "id": 6,
+    "beneficios": "Quemagrasas, puede reducir el colesterol, facilita la digestión.",
+    "titulo": "Pu-Erh",
+    "srcimg": "https://www.teyte.net/wp-content/uploads/2019/10/puer-shu.jpg",
+    "alt": "Bola compacta de Pu-Erh",
+    "texto": "Pu-Erh es un té post-fermentado que pasa por un complejo proceso en el que se compacta y se deja madurar durante años.",
+    "url": "https://www.amazon.es/Toucha-Puer-T%C3%A9-Yunnan-China/dp/B0793ZD1YD/ref=sr_1_3_sspa?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=pu+erh&qid=1612100328&quartzVehicle=2590-561&replacementKeywords=erh&sr=8-3-spons&psc=1&smid=A1B0HKJ2TQQ4PB&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySjkwQ0g2N01LQTM1JmVuY3J5cHRlZElkPUEwMjM5OTAzMkJIVEs3U1hOOEtEQSZlbmNyeXB0ZWRBZElkPUEwMjEzNTQ4MUxEM1VJRUcwODRFJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+},
+{
+    "id": 7,
+    "beneficios": "Rico en vitaminas y minerales, energizante, alternativa al café.",
+    "titulo": "Matcha",
+    "srcimg": "https://img3.elperiodico.com/81/18/66/matcha-980x570.jpg",
+    "alt": "Taza de Matcha con una cuchara y un mezclador",
+    "texto": "Tradicional de Japón, el té Matcha requiere una ceremonia para ser batido. Sus propiedades son enormes, ya que se consume su hoja entera.",
+    "url": "https://www.amazon.es/VAHDAM-Certified-Unblended-Anti-OXIDANTS-Metabolism/dp/B07MD4LB49/ref=sr_1_2_sspa?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=6247K2ZV5CU8&dchild=1&keywords=matcha&qid=1612100511&sprefix=matcha%2Caps%2C1364&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUVBaS0kyMUpJRk9JJmVuY3J5cHRlZElkPUEwNDM5NzEwQzRVU09MT0FVMDdFJmVuY3J5cHRlZEFkSWQ9QTA2MDM0NTUyV0xQMURRNU9PTUZNJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+},
+{
+    "id": 8,
+    "beneficios": "Promueve la pérdida de peso, limpia el hígado, reduce la presión arterial.",
+    "titulo": "Té verde",
+    "srcimg": "https://isanidad.com/wp-content/uploads/2019/09/T%C3%A9-verde-500x334.jpg",
+    "alt": "Taza y tetera llenas de té verde",
+    "texto": "El té verde és un té tradicional chino asociado con la salud, puesto que ayuda a hacer un detox en el cuerpo.",
+    "url": "https://www.amazon.es/Himalayas-desintoxicaci%C3%B3n-natural-poderosos-antioxidantes/dp/B00R65SD4C/ref=sr_1_8?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=te+verde&qid=1612100972&sr=8-8"
+},
+{
+    "id": 9,
+    "beneficios": "Calma el dolor de estómago, reduce el estrés y la ansiedad, alivia el insomnio.",
+    "titulo": "Camamilla",
+    "srcimg": "https://www.psicoactiva.com/wp-content/uploads/2018/01/manzanilla-infusion.jpg",
+    "alt": "Infusión de camamilla rodeada de sus flores",
+    "texto": "La camamilla se ha usado medicinalmente durante décadas. Esta hierba se usa en múltiples culturas como un suave sedante y calmante del dolor de estómago.",
+    "url": "https://www.amazon.es/Manzanilla-org%C3%A1nica-infusi%C3%B3n-flores-Matricaria/dp/B07D22KTFX/ref=sr_1_5?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=camomila+infusion&qid=1612101298&sr=8-5"
+}
+
+]
